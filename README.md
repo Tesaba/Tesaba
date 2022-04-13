@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tesaba
-- 👀 I’m interested in networking
-- 🌱 I’m currently learning obsidian
-- 💞️ I’m looking to collaborate on win/linux
+- 👀 I’m interested in heterogeneous network management
+- 🌱 I’m currently learning Obsidian
+- 💞️ I’m looking to collaborate on Win/Linux
 - 📫 How to reach me ...
 
 <!---
